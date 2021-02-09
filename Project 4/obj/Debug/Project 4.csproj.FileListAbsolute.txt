@@ -1,0 +1,16 @@
+C:\Users\carine\source\repos\Project 4\Project 4\bin\Debug\Project 4.exe.config
+C:\Users\carine\source\repos\Project 4\Project 4\bin\Debug\Project 4.exe
+C:\Users\carine\source\repos\Project 4\Project 4\bin\Debug\Project 4.pdb
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project 4.csprojAssemblyReference.cache
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project_4.frmMain.resources
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project_4.Properties.Resources.resources
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project 4.csproj.GenerateResource.cache
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project 4.csproj.CoreCompileInputs.cache
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project 4.exe
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project 4.pdb
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project_4.frmExercise_1.resources
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project_4.frmExercise_2.resources
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project_4.frmExercise_3.resources
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project_4.frmExercise_4.resources
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project_4.frmExercise_5.resources
+C:\Users\carine\source\repos\Project 4\Project 4\obj\Debug\Project_4.frmExercise_6.resources
